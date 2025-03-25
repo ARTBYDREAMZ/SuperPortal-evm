@@ -247,7 +247,7 @@ export function NftMint(props: Props) {
           </CardFooter>
         </Card>
 
-        {/* Buttons Below the Card */}
+        {/* Buttons Below the Card  */}
         <div className="mt-6 flex flex-col sm:flex-row gap-4 max-w-md w-full">
           <Button
             asChild
