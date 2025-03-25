@@ -91,12 +91,12 @@ export function NftMint(props: Props) {
         {/* GIF with Hover Effect */}
         <div className="mt-24 sm:mt-20 mb-6 group max-w-md w-full">
           <img
-            src="/xtllatextbase.gif"
+            src="/base.gif"
             alt="Base GIF"
             className="w-full h-auto group-hover:hidden"
           />
           <img
-            src="/xtllatextlight.gif"
+            src="/hover.gif"
             alt="Hover GIF"
             className="w-full h-auto hidden group-hover:block"
           />
@@ -253,15 +253,15 @@ export function NftMint(props: Props) {
             asChild
             className="bg-gray-800 text-white hover:bg-gray-700 flex-1"
           >
-            <a href="https://jolted.one" target="_blank" rel="noopener noreferrer">
-              Physical Shop
+            <a href="https://x.com/lofi_dreamz" target="_blank" rel="noopener noreferrer">
+              X profile
             </a>
           </Button>
           <Button
             asChild
             className="bg-gray-800 text-white hover:bg-gray-700 flex-1"
           >
-            <a href="https://www.fractalvisions.io/collections/0x5346b69c7277156881768d26b2c98817408d5085/collection" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.fractalvisions.io/mint/super-portal" target="_blank" rel="noopener noreferrer">
               Fractal Visions Marketplace
             </a>
           </Button>
