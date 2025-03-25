@@ -1080,17 +1080,17 @@
     "@swc/counter" "^0.1.3"
     tslib "^2.4.0"
 
-"@tanstack/query-core@5.67.1":
-  version "5.67.1"
-  resolved "https://registry.npmjs.org/@tanstack/query-core/-/query-core-5.67.1.tgz"
-  integrity sha512-AkFmuukVejyqVIjEQoFhLb3q+xHl7JG8G9cANWTMe3s8iKzD9j1VBSYXgCjy6vm6xM8cUCR9zP2yqWxY9pTWOA==
+"@tanstack/query-core@5.67.3":
+  version "5.67.3"
+  resolved "https://registry.npmjs.org/@tanstack/query-core/-/query-core-5.67.3.tgz"
+  integrity sha512-pq76ObpjcaspAW4OmCbpXLF6BCZP2Zr/J5ztnyizXhSlNe7fIUp0QKZsd0JMkw9aDa+vxDX/OY7N+hjNY/dCGg==
 
-"@tanstack/react-query@5.67.1":
-  version "5.67.1"
-  resolved "https://registry.npmjs.org/@tanstack/react-query/-/react-query-5.67.1.tgz"
-  integrity sha512-fH5u4JLwB6A+wLFdi8wWBWAYoJV5deYif2OveJ26ktAWjU499uvVFS1wPWnyEyq5LvZX1MZInvv9QRaIZANRaQ==
+"@tanstack/react-query@5.67.3":
+  version "5.67.3"
+  resolved "https://registry.npmjs.org/@tanstack/react-query/-/react-query-5.67.3.tgz"
+  integrity sha512-u/n2HsQeH1vpZIOzB/w2lqKlXUDUKo6BxTdGXSMvNzIq5MHYFckRMVuFABp+QB7RN8LFXWV6X1/oSkuDq+MPIA==
   dependencies:
-    "@tanstack/query-core" "5.67.1"
+    "@tanstack/query-core" "5.67.3"
 
 "@types/node@^20":
   version "20.16.3"
@@ -2333,10 +2333,10 @@ once@^1.3.1, once@^1.4.0:
   dependencies:
     wrappy "1"
 
-ox@0.6.7:
-  version "0.6.7"
-  resolved "https://registry.npmjs.org/ox/-/ox-0.6.7.tgz"
-  integrity sha512-17Gk/eFsFRAZ80p5eKqv89a57uXjd3NgIf1CaXojATPBuujVc/fQSVhBeAU9JCRB+k7J50WQAyWTxK19T9GgbA==
+ox@0.6.10:
+  version "0.6.10"
+  resolved "https://registry.npmjs.org/ox/-/ox-0.6.10.tgz"
+  integrity sha512-B3rYmtaDF5smwQcVKSar+1wuYX8VlQ82Nxp5i6q/FaXskXY9tbJNTnwZ2f7uMfqTZIPx1lPzDUdjrCTPeC5LXQ==
   dependencies:
     "@adraffy/ens-normalize" "^1.10.1"
     "@noble/curves" "^1.6.0"
@@ -2988,10 +2988,10 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
-thirdweb@^5.92.1:
-  version "5.92.1"
-  resolved "https://registry.npmjs.org/thirdweb/-/thirdweb-5.92.1.tgz"
-  integrity sha512-k7fQzwCbWMEK/jjKPWYhWolE3sqYeCc8rWArfItljXuzTWCrgDWO3TR4XIBBr8QKqDi8aWDr0VORdMAcEI872A==
+thirdweb@^5.93.4:
+  version "5.93.4"
+  resolved "https://registry.npmjs.org/thirdweb/-/thirdweb-5.93.4.tgz"
+  integrity sha512-WMrDKUtE4KJHXXuIp7I68cs9hwLvsVSjH8yp1ZsOI0FBHieNosYNblVFQ03w3KECLb84If4eg4K/Fgib0SzKdw==
   dependencies:
     "@coinbase/wallet-sdk" "4.3.0"
     "@emotion/react" "11.14.0"
@@ -3003,7 +3003,7 @@ thirdweb@^5.92.1:
     "@radix-ui/react-focus-scope" "1.1.2"
     "@radix-ui/react-icons" "1.3.2"
     "@radix-ui/react-tooltip" "1.1.8"
-    "@tanstack/react-query" "5.67.1"
+    "@tanstack/react-query" "5.67.3"
     "@walletconnect/ethereum-provider" "2.17.5"
     "@walletconnect/sign-client" "2.17.5"
     abitype "1.0.8"
@@ -3011,9 +3011,9 @@ thirdweb@^5.92.1:
     fuse.js "7.1.0"
     input-otp "^1.4.1"
     mipd "0.0.7"
-    ox "0.6.9"
+    ox "0.6.10"
     uqr "0.1.2"
-    viem "2.23.5"
+    viem "2.23.10"
 
 thread-stream@^0.15.1:
   version "0.15.2"
@@ -3135,10 +3135,10 @@ valtio@1.11.2:
     proxy-compare "2.5.1"
     use-sync-external-store "1.2.0"
 
-viem@2.23.5:
-  version "2.23.5"
-  resolved "https://registry.npmjs.org/viem/-/viem-2.23.5.tgz"
-  integrity sha512-cUfBHdFQHmBlPW0loFXda0uZcoU+uJw3NRYQRwYgkrpH6PgovH8iuVqDn6t1jZk82zny4wQL54c9dCX2W9kLMg==
+viem@2.23.10:
+  version "2.23.10"
+  resolved "https://registry.npmjs.org/viem/-/viem-2.23.10.tgz"
+  integrity sha512-va6Wde+v96PdfzdPEspCML1MjAqe+88O8BD+R9Kun/4s5KMUNcqfHbXdZP0ZZ2Zms80styvH2pDRAqCho6TqkA==
   dependencies:
     "@noble/curves" "1.8.1"
     "@noble/hashes" "1.7.1"
@@ -3146,8 +3146,8 @@ viem@2.23.5:
     "@scure/bip39" "1.5.4"
     abitype "1.0.8"
     isows "1.0.6"
-    ox "0.6.7"
-    ws "8.18.0"
+    ox "0.6.9"
+    ws "8.18.1"
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
@@ -3211,10 +3211,10 @@ ws@^7.5.1:
   resolved "https://registry.npmjs.org/ws/-/ws-7.5.10.tgz"
   integrity sha512-+dbF1tHwZpXcbOJdVOkzLDxZP1ailvSxM6ZweXTegylPny803bFhA+vqBYw4s31NSAk4S2Qz+AKXK9a4wkdjcQ==
 
-ws@8.18.0:
-  version "8.18.0"
-  resolved "https://registry.npmjs.org/ws/-/ws-8.18.0.tgz"
-  integrity sha512-8VbfWfHLbbwu3+N6OKsOMpBdT4kXPDDB9cJk2bJ6mh9ucxdlnNvH1e+roYkKmN9Nxw2yjz7VzeO9oOz2zJ04Pw==
+ws@8.18.1:
+  version "8.18.1"
+  resolved "https://registry.npmjs.org/ws/-/ws-8.18.1.tgz"
+  integrity sha512-RKW2aJZMXeMxVpnZ6bck+RswznaxmzdULiBr6KY7XkTnW8uvt0iT9H5DkHUChXrc+uurzwa0rVI16n/Xzjdz1w==
 
 y18n@^4.0.0:
   version "4.0.3"
